@@ -34,8 +34,6 @@ body {
     color: white;
     border-bottom: 6px solid #07004d;
     border-radius: 10px;
-    text-shadow: 5px 5px 2px black;
-        
     /*
     Challenge:
     Find a color palette you like on Coolors.co
@@ -44,6 +42,10 @@ body {
     animation-name: new-jersey-devil;
     animation-duration: 20s;
      
+}
+
+#textshadow {
+    text-shadow: 5px 5px 2px black;
 }
 
 
