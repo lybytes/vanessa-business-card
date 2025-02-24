@@ -16,10 +16,11 @@ body {
 
 @keyframes new-jersey-devil {
 
-  0%   {background-color: red;}
+  0%   {background-color: white;}
   25%  {background-color: black;}
-  50%  {background-color: red;}
-  100% {background-color: black}
+  50%  {background-color: yellow;}
+  75% {background-color: white;}
+  100% {background-color: black;}  
 }
 
 .card {
