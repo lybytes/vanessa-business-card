@@ -11,7 +11,7 @@ body {
 .avatar {
     width: 150px;
     border: 1px solid #07004d;
-    border-radius: 50px;
+    border-radius: 50%;
 }
 
 @keyframes new-jersey-devil {
@@ -45,7 +45,7 @@ body {
 }
 
 #textshadow {
-    text-shadow: 2px 2px 1px black;
+    text-shadow: 0px 0px 1px black;
 }
 
 
